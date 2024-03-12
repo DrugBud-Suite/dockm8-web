@@ -11,3 +11,15 @@
   font-weight: 700;
   margin: 661px auto 0;
 }
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 701px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 25px;
+    margin-bottom: 60px;
+  }
+}
